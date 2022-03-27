@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj": {}
+    "D:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj": {}
   },
   "projects": {
-    "d:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj": {
+    "D:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj",
+        "projectUniqueName": "D:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj",
         "projectName": "SolutionProgram",
-        "projectPath": "d:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj",
+        "projectPath": "D:\\GuanProjects\\C#Practice\\SolutionProgram\\SolutionProgram.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\GuanProjects\\C#Practice\\SolutionProgram\\obj\\",
+        "outputPath": "D:\\GuanProjects\\C#Practice\\SolutionProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
